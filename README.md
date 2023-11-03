@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data science**
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQSocHc8PdV2mhF_CjnykiIs7whgfpyWoHg&usqp=CAU">
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/smitbhanderi/project](https://sites.google.com/view/smitbhanderi/project)
+- 👨‍💻 All of my projects are available at ([https://sites.google.com/view/smitbhanderi/project](https://sites.google.com/view/smitbhanderi/blog))
 
 - 📝 I regularly write articles on [https://medium.com/@smitsb4992](https://medium.com/@smitsb4992)
 
